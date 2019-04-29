@@ -11,7 +11,7 @@
 
 ## COMPONENTS AND SUPPLIES :pushpin:
 * ##### Arduino Uno R3 (บอร์ดอาดูโน่ อาร์ 3)
-        <img src="./picture/component/arduino_r3.jpg" width="100px" height="100">  
+* <img src="./picture/component/arduino_r3.jpg" width="100px" height="100">  
 * ##### Water Container (กระบอกเก็บน้ำ) 
 * ##### Rubber Tube 19mm (สายยาง 19 มม.) 
 * ##### BreadBoard (โฟโตบอร์ด)
