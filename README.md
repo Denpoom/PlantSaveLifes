@@ -44,13 +44,13 @@ because our team believe that when getting purify air as air purifiers are very 
 | :---------: |
 |  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/bottle_2.jpg" width="700" height="500">  |
 
-บรรจุน้ำสำหรับเตรียมการรดน้ำต้นไม้ 
+* บรรจุน้ำสำหรับเตรียมการรดน้ำต้นไม้ 
 
 | Rubber Tube 19mm (สายยาง 19 มม.) |
 | :---------: |
 |  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/rubber_tube.jpg" width="700" height="500">  |
 
-สายยางเส้นผ่านศูนย์กลางที่พอดีกับปั้มน้ำมอเตอร์ 2v-5v
+* สายยางเส้นผ่านศูนย์กลางที่พอดีกับปั้มน้ำมอเตอร์ 2v-5v
 
 | BreadBoard (โฟโตบอร์ด) |
 | :---------: |
