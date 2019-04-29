@@ -10,17 +10,60 @@
 ตายไปในเวลาอันสั้น กลุ่มกระผมจึงมีความคิดที่จะสร้าง เป็นกระถางต้นไม้อัฉริยะ ที่สามารถควบคุมปริมาณความชื้นของดิน การรถน้ำ ใส่ปุ๋ย เเสงเเดด ที่เหมาะกับต้นไม้ที่ปลูกไว้ในพื้นที่จำกัดได้ เเละ ติดอุปกรณ์วัดคุณภาพ อากาศบริเวณต้นไม้อีกด้วยเพื่อเช็คความบริสุทธิ์ของอากาศ
 
 ## COMPONENTS AND SUPPLIES :pushpin:
-* ##### Arduino Uno R3 (บอร์ดอาดูโน่ อาร์ 3)
-* ##### Water Container (กระบอกเก็บน้ำ) 
-* ##### Rubber Tube 19mm (สายยาง 19 มม.) 
-* ##### BreadBoard (โฟโตบอร์ด)
-* ##### Wire (สายไฟ)
-* ##### Liquid Crystal Display I2C module (จอเเอลซีดี ไอทูซี โมดูล) 
-* ##### Soil Moisture Measurement Sensor V1.2 (เซนเซอ์วัดความชื้นในดิน)
-* ##### Relay 5V 1 Channel module (โมดูลรีเลย์5V 1 ช่อง )
-* ##### GP2Y10 Sharp Dust Sensor PM2.5 module (เซนเซอร์วัดฝุ่นละอองในอากาศ)
-* ##### Volume VR 10 Kohm (15mm) Potentiometer Variable Resistor (ตัวต้านทานเเบบปรับค่าได้ขนาด 10K)
-* ##### PowerBank 10000mA Duo USB port (เเบตสำรองเเบบมีช่องจ่ายไฟ USB จำนวน 2 ช่อง)
+| Arduino Uno R3 (บอร์ดอาดูโน่ อาร์ 3) |
+| :---------: |
+|  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/arduino_r3.jpg" width="700" height="500">  |
+|  รายละเอียด  |
+
+| Water Container (กระบอกเก็บน้ำ)  |
+| :---------: |
+|  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/bottle.jpg" width="700" height="500">  |
+|  รายละเอียด  |
+
+| ubber Tube 19mm (สายยาง 19 มม.) |
+| :---------: |
+|  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/rubber_tube.jpg" width="700" height="500">  |
+|  รายละเอียด  |
+
+| BreadBoard (โฟโตบอร์ด) |
+| :---------: |
+|  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/t-043-1_11.png" width="700" height="500">  |
+|  รายละเอียด  |
+
+| Wire (สายไฟ) |
+| :---------: |
+|  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/wire.jpg" width="700" height="500">  |
+|  รายละเอียด  |
+
+| Liquid Crystal Display I2C module (จอเเอลซีดี ไอทูซี โมดูล) |
+| :---------: |
+|  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/lcd_i2c.jpg" width="700" height="500">  |
+|  รายละเอียด  |
+
+| Soil Moisture Measurement Sensor V1.2 (เซนเซอ์วัดความชื้นในดิน) |
+| :---------: |
+|  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/s-l640.jpg" width="700" height="500">  |
+|  รายละเอียด  |
+
+| Relay 5V 1 Channel module (โมดูลรีเลย์5V 1 ช่อง ) |
+| :---------: |
+|  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/relay_1channel.jpg" width="700" height="500">  |
+|  รายละเอียด  |
+
+| GP2Y10 Sharp Dust Sensor PM2.5 module (เซนเซอร์วัดฝุ่นละอองในอากาศ) |
+| :---------: |
+|  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/dust_sensor.jpg" width="700" height="500">  |
+|  รายละเอียด  |
+
+| Volume VR 10 Kohm (15mm) Potentiometer Variable Resistor (ตัวต้านทานเเบบปรับค่าได้ขนาด 10K) |
+| :---------: |
+|  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/variable_resistor.jpg" width="700" height="500">  |
+|  รายละเอียด  |
+
+| PowerBank 10000mA Duo USB port (เเบตสำรองเเบบมีช่องจ่ายไฟ USB จำนวน 2 ช่อง) |
+| :---------: |
+|  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/powerbank.jpg" width="700" height="500">  |
+|  รายละเอียด  |
 
 ## Author :family:
 | Profile | Name | ID | GITHUB |
