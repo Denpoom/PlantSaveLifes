@@ -10,16 +10,17 @@
 ตายไปในเวลาอันสั้น กลุ่มกระผมจึงมีความคิดที่จะสร้าง เป็นกระถางต้นไม้อัฉริยะ ที่สามารถควบคุมปริมาณความชื้นของดิน การรถน้ำ ใส่ปุ๋ย เเสงเเดด ที่เหมาะกับต้นไม้ที่ปลูกไว้ในพื้นที่จำกัดได้ เเละ ติดอุปกรณ์วัดคุณภาพ อากาศบริเวณต้นไม้อีกด้วยเพื่อเช็คความบริสุทธิ์ของอากาศ
 
 ## COMPONENTS AND SUPPLIES :pushpin:
-* ##### Arduino Uno R3 x1
-* ##### ขวดน้ำ x1
-* ##### สายยาง x1
-* ##### Foto Board x1
-* ##### สายไฟ x40
-* ##### Liquid Crystal Display(LCD) x1
-* ##### Soil Motive Sensor + PMC x1
-* ##### Relay 5V 1 Channel x1
-* ##### GP2Y10 Dust Sensor PM2.5 module x1
-* ##### Soil Motive Sensor + PMC x1
+* ##### Arduino Uno R3 (บอร์ดอาดูโน่ อาร์ 3)
+* ##### Water Container (กระบอกเก็บน้ำ) 
+* ##### Rubber Tube 19mm (สายยาง 19 มม.) 
+* ##### BreadBoard (โฟโตบอร์ด)
+* ##### Wire (สายไฟ)
+* ##### Liquid Crystal Display I2C module (จอเเอลซีดี ไอทูซี โมดูล) 
+* ##### Soil Moisture Measurement Sensor V1.2 (เซนเซอ์วัดความชื้นในดิน)
+* ##### Relay 5V 1 Channel module (โมดูลรีเลย์5V 1 ช่อง )
+* ##### GP2Y10 Sharp Dust Sensor PM2.5 module (เซนเซอร์วัดฝุ่นละอองในอากาศ)
+* ##### Volume VR 10 Kohm (15mm) Potentiometer Variable Resistor (ตัวต้านทานเเบบปรับค่าได้ขนาด 10K)
+* ##### PowerBank 10000mA Duo USB port (เเบตสำรองเเบบมีช่องจ่ายไฟ USB จำนวน 2 ช่อง)
 
 ## Author :family:
 | Profile | Name | ID | GITHUB |
