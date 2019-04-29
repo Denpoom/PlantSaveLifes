@@ -135,6 +135,10 @@ Trigger current: 2-4mA
 | :---------: |
 |  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/variable_resistor.jpg" width="700" height="500">  |
 
+| Water Pump 2v-5v (ปั้มน้ำขนาด 2v-5v) |
+| :---------: |
+|  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/pump.jpg" width="700" height="500">  |
+
 
 | PowerBank 10000mA Duo USB port (เเบตสำรองเเบบมีช่องจ่ายไฟ USB จำนวน 2 ช่อง) |
 | :---------: |
