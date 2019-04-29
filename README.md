@@ -46,7 +46,7 @@ Clock Speed	16 MHz
 
 บรรจุน้ำสำหรับเตรียมการรดน้ำต้นไม้ 
 
-| ubber Tube 19mm (สายยาง 19 มม.) |
+| Rubber Tube 19mm (สายยาง 19 มม.) |
 | :---------: |
 |  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/rubber_tube.jpg" width="700" height="500">  |
 
