@@ -14,31 +14,31 @@ because our team believe that when getting purify air as air purifiers are very 
 | :---------: |
 |  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/arduino_r3.jpg" width="700" height="500">  |
 
-ไมโครคอนโทรนเลอร์ > ATmega328 
+* ไมโครคอนโทรนเลอร์ > ATmega328 
 
-แหล่งจ่ายไฟ	5V
+* แหล่งจ่ายไฟ	5V
 
-ไฟเข้า(แนะนำ)	7-12V
+* ไฟเข้า(แนะนำ)	7-12V
 
-ไฟเข้า (จำกัดไว้ที่)	6-20V
+* ไฟเข้า (จำกัดไว้ที่)	6-20V
 
-ขาดิจิตอล I/O	14 ขา 
+* ขาดิจิตอล I/O	14 ขา 
 
-6 ขารองรับเอาต์พุตแบบ PWM
+* 6 ขารองรับเอาต์พุตแบบ PWM
 
-ขาอะนาล็อกอินพุต	6 ขา
+* ขาอะนาล็อกอินพุต	6 ขา
 
-กระแสไฟฟ้า DC ต่อขา I/O 40 mA
+* กระแสไฟฟ้า DC ต่อขา I/O 40 mA
 
-กระแสไฟฟ้าออก DC สำหรับขา 3.3V	50 mA
+* กระแสไฟฟ้าออก DC สำหรับขา 3.3V	50 mA
 
-Flash Memory	32 KB (ATmega328)
+* Flash Memory	32 KB (ATmega328)
 
-SRAM	2 KB (ATmega328)
+* SRAM	2 KB (ATmega328)
 
-EEPROM	1 KB (ATmega328)
+* EEPROM	1 KB (ATmega328)
 
-Clock Speed	16 MHz
+* Clock Speed	16 MHz
 
 | Water Container (กระบอกเก็บน้ำ)  |
 | :---------: |
