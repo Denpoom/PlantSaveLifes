@@ -9,7 +9,7 @@ They prioritize some issues, such as workload, studying, gym, Perhaps less impor
 because our team believe that when getting purify air as air purifiers are very expensive and in short supply in the current situation. planting trees that can absorb PM2.5 instead.therefore, it is the choice for students, rarely stays in a dormitory and forgets to look at these trees, such as watering, causing no matter how much our team buy new plant, they will often die in a short time,So there is a idea to create a potted plant that can control the amount of soil moisture by watering automatically, which is suitable for trees grown in limited areas and equipped with quality measuring air purify in that area.<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./picture/youtube_PNG5.png" width="300" height="200">](https://www.youtube.com/watch?v=qQYS6bbTMYo)
 <p align="center">
-  <h3>คลิกที่นี่เพื่อรับชมวิธีการสาธิตการทำงาน</h3>
+  <b>คลิกที่นี่เพื่อรับชมวิธีการสาธิตการทำงาน</b>
 </p>
 
 <img src="./picture/curcuit/curcuit.jpg" width="700" height="500">
