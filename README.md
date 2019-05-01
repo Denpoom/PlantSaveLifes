@@ -7,10 +7,8 @@
 &emsp;&emsp;Nowadays, Urban lifestyle, Time is considered a major factor in determining the daily lifestyle of people.
 They prioritize some issues, such as workload, studying, gym, Perhaps less important that many people overlook, especially our team that is watering the plant.there are always a problem to our team tries to find trees that can help absorb PM2.5 dust in bedroom
 because our team believe that when getting purify air as air purifiers are very expensive and in short supply in the current situation. planting trees that can absorb PM2.5 instead.therefore, it is the choice for students, rarely stays in a dormitory and forgets to look at these trees, such as watering, causing no matter how much our team buy new plant, they will often die in a short time,So there is a idea to create a potted plant that can control the amount of soil moisture by watering automatically, which is suitable for trees grown in limited areas and equipped with quality measuring air purify in that area.<br><br>
-<a href="https://www.youtube.com/watch?v=qQYS6bbTMYo">
-<img border="0" src="./picture/youtube_PNG5.png" width="300" height="200">
-</a>
 <p align="center">
+  <a href="https://www.youtube.com/watch?v=qQYS6bbTMYo"><img border="0" src="./picture/youtube_PNG5.png" width="300" height="200"></a>
   <b>คลิกที่นี่เพื่อรับชมวิธีการสาธิตการทำงาน</b>
 </p>
 
