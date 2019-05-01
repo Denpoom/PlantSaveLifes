@@ -14,43 +14,43 @@ because our team believe that when getting purify air as air purifiers are very 
 | :---------: |
 |  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/arduino_r3.jpg" width="700" height="500">  |
 
-ไมโครคอนโทรนเลอร์ > ATmega328 
+* ไมโครคอนโทรนเลอร์ > ATmega328 
 
-แหล่งจ่ายไฟ	5V
+* แหล่งจ่ายไฟ	5V
 
-ไฟเข้า(แนะนำ)	7-12V
+* ไฟเข้า(แนะนำ)	7-12V
 
-ไฟเข้า (จำกัดไว้ที่)	6-20V
+* ไฟเข้า (จำกัดไว้ที่)	6-20V
 
-ขาดิจิตอล I/O	14 ขา 
+* ขาดิจิตอล I/O	14 ขา 
 
-6 ขารองรับเอาต์พุตแบบ PWM
+* 6 ขารองรับเอาต์พุตแบบ PWM
 
-ขาอะนาล็อกอินพุต	6 ขา
+* ขาอะนาล็อกอินพุต	6 ขา
 
-กระแสไฟฟ้า DC ต่อขา I/O 40 mA
+* กระแสไฟฟ้า DC ต่อขา I/O 40 mA
 
-กระแสไฟฟ้าออก DC สำหรับขา 3.3V	50 mA
+* กระแสไฟฟ้าออก DC สำหรับขา 3.3V	50 mA
 
-Flash Memory	32 KB (ATmega328)
+* Flash Memory	32 KB (ATmega328)
 
-SRAM	2 KB (ATmega328)
+* SRAM	2 KB (ATmega328)
 
-EEPROM	1 KB (ATmega328)
+* EEPROM	1 KB (ATmega328)
 
-Clock Speed	16 MHz
+* Clock Speed	16 MHz
 
 | Water Container (กระบอกเก็บน้ำ)  |
 | :---------: |
 |  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/bottle_2.jpg" width="700" height="500">  |
 
-บรรจุน้ำสำหรับเตรียมการรดน้ำต้นไม้ 
+* บรรจุน้ำสำหรับเตรียมการรดน้ำต้นไม้ 
 
 | Rubber Tube 19mm (สายยาง 19 มม.) |
 | :---------: |
 |  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/rubber_tube.jpg" width="700" height="500">  |
 
-สายยางเส้นผ่านศูนย์กลางที่พอดีกับปั้มน้ำมอเตอร์ 2v-5v
+* สายยางเส้นผ่านศูนย์กลางที่พอดีกับปั้มน้ำมอเตอร์ 2v-5v
 
 | BreadBoard (โฟโตบอร์ด) |
 | :---------: |
@@ -144,13 +144,20 @@ Trigger current: 2-4mA
 | :---------: |
 |  <img src="https://github.com/sahussawud/PlantSaveLifes/blob/master/picture/component/powerbank.jpg" width="700" height="500">  |
 
-## Author :family:
-| Profile | Name | ID | GITHUB |
-| --------- | ---------- | ---------- | :-----------: |
-|   <img src="./picture/ter.jpg" width="100px" height="100">   |   นายเด่นภูมิ ศรีเมือง   |  61070060  |  [<img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="40" height="40">](https://github.com/Denpoom)  |
-|   <img src="./picture/best.jpg" width="100px" height="100">   |   นายวรวรรษ คำนงค์   |  61070203  |  [<img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="40" height="40">](https://github.com/Warrawat203)  |
-|   <img src="./picture/pound.jpg" width="100px" height="100">   |   นายสหัสวรรษ ขันรักษา   |  61070238  |  [<img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="40" height="40">](https://github.com/sahussawud)  |
-|   <img src="./picture/toei.jpg" width="100px" height="100">   |   นายสุกฤษฎิ์ ลีลากรกิจ   |  61070245  |  [<img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="40" height="40">](https://github.com/toeiisk)  |
+# ☀ Member
 
----
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="picture/ter.png" width="100px"  height="100"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="picture/best.png" width="100px"  height="100"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="picture/pound.png" width="100px"  height="100"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="picture/toei.png" width="100px"  height="100"></a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;61070060 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;61070203 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;61070238  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;61070245
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;นายเด่นภูมิ ศรีเมือง&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;นายวรวรรษ คำนงค์&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;นายสหัสวรรษ ขันรักษา&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;นายสุกฤษฎิ์ ลีลากรกิจ
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="40" height="40">](https://github.com/Denpoom)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="40" height="40">](https://github.com/Warrawat203)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="40" height="40">](https://github.com/sahussawud)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="40" height="40">](https://github.com/toeiisk)
+
+-----
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/sahussawud/PlantSaveLifes)
